@@ -1,0 +1,40 @@
+{
+    "ownerIDS": ["SAHIP_ID_GIRIN"],
+    "default_cooldown_in_sec" : 1.5,
+    "antiCrash": false,
+    "ping_message": true,
+    "delete_commands": true,
+    "somethingwentwrong_cmd": true,
+
+    "messages": {
+        "ping_message": "To see all Commands type: `%{prefix}%help`",
+        "cooldown": "❌ Please wait %{timeleft}% more Second(s) before reusing the `%{commandname}%` command.",
+        "notallowed_to_exec_cmd": {
+            "title": "❌ Bu Komutu Kullanmak İçin Yetkin Yok!",
+            "description": {
+                "memberpermissions": "You need these Permissions:\n> %{commandmemberpermissions}%",
+                "alloweduserids": "You need to be one of the Following Users:\n> %{commandalloweduserids}%",
+                "requiredroles": "Görünüşe Göre Bu Komutu Kullanabilmek İçin Gerekli Rol'e Sahip Değilsin!",
+                "default": "Please make sure, to get the needed Permissions!"
+            }
+        },
+        "somethingwentwrong_cmd": {
+            "title": "❌ Something went wrong while, running the: `%{commandname}%` command",
+            "description": "```%{errormessage}%```"
+        },
+        "unknown_cmd": ":cokkomik:",
+        "error_occur": "❌ An error occurred",
+        "error_occur_desc": "````%{errorstack}%````"
+    },
+    "timeout": {
+        "notallowed_to_exec_cmd": {
+            "memberpermissions": 4500,
+            "alloweduserids": 3500,
+            "requiredroles": 3500
+        },
+        "minargs": 3000,
+        "maxargs": 3000,
+        "minplusargs": 3000,
+        "maxplusargs": 3000
+    }
+}

@@ -11,6 +11,9 @@
 - (Node Js-64 Bit) https://nodejs.org/dist/v20.11.0/node-v20.11.0-x64.msi
 - (Node Js-32 Bit) https://nodejs.org/dist/v20.11.0/node-v20.11.0-x86.msi
 
+〢 XAMPP (Sorguları Almak İçin Gerekli)
+- Xamp: https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
+
 Öncelikle Selamlar Ben RelaX 
 
 Depoyu Klonlayın Veya İndirin!

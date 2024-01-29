@@ -62,7 +62,7 @@ Botun Bulunduğu Sunucuya "/" Yazarak Komutları Görebilirsiniz!
 RelaX Dc Checker
 
 ## ⚙️ 〢 Kurulum Videosu
-YÜKLENECEK
+- https://streamable.com/gr0l45
 ## 🔍 〢 Test Edildi:
 - Windows 10
 

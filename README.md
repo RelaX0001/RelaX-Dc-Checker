@@ -69,6 +69,8 @@ RelaX Dc Checker
 ## 🔍 〢 Test Edildi:
 - Windows 10
 
+⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
+
 Creative Commons 2023-2024
 
 Created By RelaX
